@@ -2509,6 +2509,7 @@ a {
 
 .map {
     background: url(../img/map.jpg);
+    margin-top: 15px;
 }
 
 .bg-overlay {position: absolute;
