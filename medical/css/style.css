@@ -1,40 +1,5 @@
 
 
-/* ===================================
-    About
-====================================== */
-
-/*
-    Theme Name: MegaOne | Medical
-    Theme URI:
-    Author: Themes Industry
-    Author URI:
-    Description: One Page Parallax Template
-    Tags: one page, multipurpose, parallax, creative, html5
-*/
-
-/* ===================================
-    Table of Content
-====================================== */
-
-/*  - Fonts
-    - General
-    - Social Icon Hover
-    - Slider
-    - Header And Navigation
-    - features
-    - About
-    - Bars
-    - Contact Us
-    - Department
-    - Counters
-    - Portfolio
-    - Testimonials
-    - Blog Pages
-    - Footer
-    - Loader
-    - Media Queries   */
-
 
 
 
@@ -78,7 +43,7 @@ body.pushmenu-push-toLeft {
     transition: all 300ms linear;
 }
 header a.logo {display: inline-block; vertical-align: middle;line-height: 0;}
-header a.logo img {max-height:35px; max-width: 150px; vertical-align: sub;}
+header a.logo img {max-height:45px; max-width: 190px; vertical-align: sub;}
 section {padding: 120px 0px 120px 0px;}
 ol, ul {margin: 0; padding: 0; list-style: none;}
 /* ===================================
@@ -1552,7 +1517,7 @@ input, select, textarea {margin :0;}
 /* ===================================
                Counters
 ====================================== */
-.bg-counter { background: url(../img/counter-bg.jpg) no-repeat;
+.bg-counter { background: url(../img/dr_encinas_bg.jpg) no-repeat;
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
@@ -2674,7 +2639,7 @@ a {
     .list-unstyled {text-align: center;}
     .blog-body {padding: 4.5rem 0;}
     .blog-body article .post-content {margin: 0;}
-    .small-bg-overlay {background-color:#ffffff; opacity: 0.6; height: 100%; z-index: 1; width: 100%;}
+    .small-bg-overlay {background-color:#ffffff; opacity: 0.1; height: 100%; z-index: 1; width: 100%;}
 }
 
 @media screen and (max-width: 767px) {
